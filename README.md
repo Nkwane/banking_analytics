@@ -1,4 +1,5 @@
 Banking Analytics Data Warehouse & Power BI Dashboard
+
 📌 Project Overview
 This project is an end-to-end Banking Analytics Data Warehouse solution that transforms raw banking data into structured, business-ready analytical datasets and delivers insights through an interactive Power BI dashboard.
 It demonstrates the full lifecycle of a modern data engineering solution:
